@@ -1,4 +1,4 @@
-# Linux-Fundamental
+# Belajar Linux Dari Nol
 
 Linux adalah sebuah kernel yang gratis,
 Kernel Linux dikembangkan pertama kali oleh Linus Torvalds pada tahun 1991.
