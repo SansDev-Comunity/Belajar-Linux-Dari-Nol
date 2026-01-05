@@ -1,5 +1,7 @@
-## Basic Linux
+### Basic Linux
 
-# Basic Commands
+## Basic Commands
 
-# CLI vs GUI
+## CLI vs GUI
+
+# 01
