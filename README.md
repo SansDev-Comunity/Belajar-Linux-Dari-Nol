@@ -18,5 +18,7 @@ Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghu
 # Ubuntu
 
 1. Linux Based Operating System (OS)
-
 2. Di perkenalkan perusahaan dari UK yang bernama Canonical pada tahun 2024
+
+# Ubuntu
+![Ubuntu]([https://diengcyber.com/wp-content/uploads/2022/04/logo-distro-linux.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1200px-UbuntuCoF.svg.png))
