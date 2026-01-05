@@ -31,3 +31,8 @@ di support update selama 5 tahun
 
 2. Normal Relase disupport
 update selama 9 bulan
+
+# LTS vs Non LTS
+### Ubuntu Releases
+
+23.10 (Mantic Minotaur)
