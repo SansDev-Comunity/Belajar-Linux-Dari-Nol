@@ -10,4 +10,5 @@ CLI (Command Line Interface) adalah antar mmuka yang menggunakan baris perintah 
 # 02
 Antar muka grafis yang lebih banyak menggunakan kursor dalam pengoperasiannya
 
-![Ubuntu](https://miro.medium.com/0*9cp4T0Hz-Gmcpku3.png)
+![CLI vs GUI](https://www.kantinit.com/wp-content/uploads/2023/11/perbedaan-gui-dan-cli.png)
+![CLI vs GUI](https://miro.medium.com/0*9cp4T0Hz-Gmcpku3.png)
