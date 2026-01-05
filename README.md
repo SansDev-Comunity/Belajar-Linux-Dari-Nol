@@ -37,3 +37,8 @@ update selama 9 bulan
 
 23.10 (Mantic Minotaur) <br>
 23.04 (Lunar Lobster)
+22.04 LTS (Jammy Jellyfish)
+20.04 LTS (Focal Fossa)
+18.04 LTS (Bionic Beaver)
+16.04 LTS (Xenial Xerus)
+14.04 LTS (Trusty Tahr)
