@@ -25,3 +25,9 @@ Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghu
 
 ### Ubuntu ada 2 versi yaitu
 ### LTS & Non-LTS
+
+1. LTS (Long Term Support)
+di support update selama 5 tahun
+
+2. Normal Relase disupport
+update selama 9 bulan
