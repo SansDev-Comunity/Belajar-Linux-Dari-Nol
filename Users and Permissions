@@ -15,3 +15,18 @@
 
 ## File and Directory Permision
 
+# Simbolik
+
+u = user <br>
+g = group <br>
+o = other <br>
+
+chmod u+rwx,o+x namefile/directory <br>
+
+# Numerik
+
+r = 4 <br>
+w = 2 <br>
+x = 1 <br>
+
+chomd 761 namefile/directory
