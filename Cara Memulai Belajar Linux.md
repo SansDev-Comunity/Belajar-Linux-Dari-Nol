@@ -6,3 +6,5 @@ langkah awal yang harus dilakukan adalah menginstall sistem operasi Linux di kom
 ### Apa itu Linux? Sejarah, Fungsi dan Kelebihan Nya
 
 Linux merupakan sistem operasi yang paling banyak digunakan untuk infrastruktur internet hingga peralatan di kehidupan sehari-harimu mulai dari mobil, CCTV,DVR,rambu lalulintas,sensor,mesin medis,mesin industri,perangkat keamanan,mesin absensi,smart tv, bahkan HP kalian menggunakan sistem operasi linux yaitu android.
+
+Linux sudah ada dari akhir tahun 1990-an
