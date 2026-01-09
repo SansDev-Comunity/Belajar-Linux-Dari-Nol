@@ -3,6 +3,8 @@
 Linux adalah sebuah kernel yang gratis,
 Kernel Linux dikembangkan pertama kali oleh Linus Torvalds pada tahun 1991.
 
+membuat kernel sistem operasi mirip Unix sebagai proyek hobi, terinspirasi dari MINIX namun ingin yang lebih terbuka, lalu merilis kodenya secara bebas sehingga menarik kontribusi pengembang global, tumbuh menjadi proyek open source raksasa yang melahirkan banyak distribusi (distro) seperti Debian, Red Hat, dan Ubuntu, hingga kini menjadi tulang punggung server, cloud, dan bahkan sistem operasi mobile seperti Android, menjadikannya salah satu OS paling sukses dan serbaguna di dunia
+
 Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghubung antara Hardwere atau System Operasi tersebut
 
 Detail lebih lanjut disini adalah tempat yang pas untuk kamu belajar Linux [BelajarLinux.ORG](https://www.belajarlinux.org/)
