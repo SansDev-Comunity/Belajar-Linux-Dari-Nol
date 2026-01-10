@@ -5,3 +5,10 @@
 3. Selalu melakukan pembaruan secara rutin
 4. Proses instalasi yang mudah dan booting yang cepat
 5. Ringan untuk dijalankan, sehingga tidak membutuhkan banyak sumber daya dari perangkat komputer
+
+# Kekurangan Linux
+
+1. Dukungan aplikasi komersial yang terbatas
+2. Sedikitnya dukungan terhadap hardware dan aplikasi yang terdapat pada sistem
+3. Kurang cocok digunakan untuk gamis, sehingga memerlukan alternatif lain
+4. Dukungan Gaming: Jumlah game yang tersedia masih lebih sedikit dibanding Windows
