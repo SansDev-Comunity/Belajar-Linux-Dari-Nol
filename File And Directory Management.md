@@ -26,5 +26,5 @@
 1. cd = Masuk/keluar directory <br>
 2. mkdir = membuat directory <br>
 3. rmdir = menghapus directory <br>
-4. is = menampilkan isi directory <br>
-5. pwd = menampilkan di directory nama kita berada
+4. ls = menampilkan isi directory, Menunjukkan daftar file dan direktori yang ada di direktori saat ini. <br>
+6. pwd = menampilkan di directory nama kita berada
