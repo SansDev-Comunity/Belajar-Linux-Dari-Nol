@@ -66,3 +66,33 @@ Tak heran kalau banyak pria masa itu berusaha meniru gaya mereka. Fedora pun men
 Selain dunia film, topi fedora juga erat kaitannya dengan figur gangster di Amerika era 1920–1940-an. Tokoh seperti Al Capone dan kelompok mafia lainnya sering terlihat mengenakan.
 
 ### 4. Mint
+
+Keunggulan dari sistem operasi ini adalah terintegrasi dengan codec multimedia dan juga Java Runtime. Mint juga memiliki dua tipe, yaitu Cinnamon dan Mate.
+Filosofi Mint adalah menciptakan sistem operasi desktop yang modern, elegan, nyaman, kuat, dan mudah digunakan.
+terutama bagi pengguna yang beralih dari Windows, Linux Mint OS adalah distribusi Linux untuk desktop dan laptop dengan antarmuka yang intuitif. Baca artikel ini untuk mempelajari sejarah dan pengertian Linux Mint OS, kelebihan dan kekurangan, serta jenis-jenis varian yang tersedia seperti Cinnamon, MATE, Xfce, dan KDE.
+
+Linux Mint adalah salah satu distribusi Linux yang cukup populer dan banyak digunakan. Linux Mint pertama kali dirilis pada tahun 2006 dan dikembangkan oleh Clement Lefebvre.
+pertama kali dirilis pada tanggal 27 Agustus 2006 dengan nama “Ada”. Versi pertama Linux Mint ini masih menggunakan basis dari Ubuntu 6.06 dan antarmuka pengguna GNOME. 
+plikasi Flatpak dan dukungan untuk tampilan baru “Bulma”.
+
+Kelebihan:
+Mudah digunakan, Stabil dan aman, Banyak pilihan aplikasi
+
+Kekurangan:
+Kurang terkenal, Masalah driver, Dukungan terhadap permainan game
+
+### Beberapa varian atau versi dari Linux Mint OS: 
+
+1. Cinnamon: Versi Linux Mint yang paling populer dan banyak digunakan, dengan desktop environment yang modern, mudah digunakan, dan customisable.
+
+2. MATE: Varian dari Linux Mint yang memperkenalkan desktop environment yang lebih ringan, dengan tampilan yang klasik dan lebih sederhana. 
+
+3. Xfce: Varian dari Linux Mint yang memiliki tampilan dan nuansa yang sama dengan MATE, namun lebih ringan dan dapat digunakan pada komputer yang memiliki spesifikasi yang lebih rendah. 
+
+4. KDE: Versi dari Linux Mint yang menggunakan desktop environment KDE Plasma, dengan tampilan yang lebih modern dan fitur yang lebih lengkap.
+
+5. Debian edition: Versi Linux Mint yang didasarkan pada Debian, bukan Ubuntu, dengan tujuan memberikan stabilitas yang lebih tinggi. 
+
+6. LMDE: Linux Mint Debian Edition, adalah versi Linux Mint yang didasarkan pada Debian dengan paket-paket perangkat lunak terbaru dan lebih cepat. 
+
+7. Fluxbox: Versi Linux Mint yang menggunakan desktop environment Fluxbox, dengan tampilan yang minimalis dan sangat ringan.
