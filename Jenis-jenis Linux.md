@@ -42,3 +42,25 @@ Debian adalah sistem operasi (OS) yang sangat serbaguna, cocok baik untuk server
 Situs Resmi Debian: https://www.debian.org/ <br>
 Debian Wiki: https://wiki.debian.org/ <br>
 Forum Komunitas Debian: https://forums.debian.net/
+
+### 3. Fedora
+
+Fedora adalah jenis sistem operasi Linux yang cukup populer di Amerika. Hal tersebut disebabkan karena Fedora memiliki tampilan desktop yang menarik. 
+
+Filosofi Fedora (distro Linux) berpusat pada Perangkat Lunak Bebas dan Terbuka (FOSS),
+tentang kebebasan, keterbukaan, inovasi, dan mendorong kemajuan teknologi melalui kolaborasi global. 
+
+## Topi Fedora Pernah Jadi Simbol Maskulinitas di Era 1900-an
+
+Akar sejarah fedora berasal dari dunia teater dan feminisme, kemudian berubah menjadi simbol kejantanan pria kelas menengah di awal 1900-an.
+Topi fedora erat kaitannya dengan dunia gangster sebagai simbol kekuasaan, keberanian, dan kendali di Amerika era 1920–1940-an.
+
+Dulu, sebelum hoodie dan jaket kulit jadi ikon awal abad ke-20, Fedora cuma sekedar pelindung kepala.
+topi ini menjelma jadi atribut yang sarat makna dan karisma.
+Fenomena fedora di masa itu begitu kuat karena setiap lipatan dan lekukannya mencerminkan kepribadian
+di anggap gaya yang elegan.
+
+Hollywood punya peran besar dalam mengukuhkan topi fedora sebagai simbol maskulinitas. Aktor legendaris seperti Humphrey Bogart dalam Casablanca atau Cary Grant dalam North by Northwest menjadikan fedora bagian tak terpisahkan dari citra pria kuat,
+Tak heran kalau banyak pria masa itu berusaha meniru gaya mereka. Fedora pun menjelma jadi lambang kejayaan pria urban yang berkelas tapi tetap tangguh.
+
+Selain dunia film, topi fedora juga erat kaitannya dengan figur gangster di Amerika era 1920–1940-an. Tokoh seperti Al Capone dan kelompok mafia lainnya sering terlihat mengenakan.
