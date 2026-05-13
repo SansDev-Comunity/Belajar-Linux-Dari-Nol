@@ -10,7 +10,7 @@ Kernel berbeda dengan system operasi. Kernel fungsi nya adalah jembatan / penghu
 Detail lebih lanjut disini adalah tempat yang pas untuk kamu belajar Linux [BelajarLinux.ORG](https://www.belajarlinux.org/)
 # Linux Distribution
 
-![Mandriva](https://diengcyber.com/wp-content/uploads/2022/04/logo-distro-linux.png)
+![Mandriva](img/linux_distribusi1.png)
 
 # Kenapa Harus Belajar Belajar Linux
 
