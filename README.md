@@ -11,7 +11,6 @@ Detail lebih lanjut disini adalah tempat yang pas untuk kamu belajar Linux [Bela
 # Linux Distribution
 
 ![1](img/linux_distribusi1.png)
-![1](img/linux_distribusi2.png)
 
 # Kenapa Harus Belajar Belajar Linux
 
